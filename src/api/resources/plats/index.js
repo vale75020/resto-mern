@@ -1,0 +1,1 @@
+export {platsRouter} from './plats.router'
